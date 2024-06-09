@@ -20,3 +20,4 @@ This template provides simple designed React components using [Tailwind CSS](htt
       width?: number // fixed column width;
       filter?: ColumnFilter // 'text' | 'numeric' | 'combo'
     ```
+    ![image](./doc/erc-table.jpg)
